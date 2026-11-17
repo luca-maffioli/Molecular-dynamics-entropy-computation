@@ -1,5 +1,27 @@
 # Two- and three-particle distribution functions of a WCA fluid
 
+> **Reference.** This code was used to produce the results published in
+>
+> L. Maffioli, N. Clisby, F. Frascoli and B. D. Todd,
+> *Computation of the equilibrium three-particle entropy for dense atomic fluids by
+> molecular dynamics simulation*,
+> J. Chem. Phys. **151**, 164102 (2019).
+> [doi:10.1063/1.5124715](https://doi.org/10.1063/1.5124715)
+>
+
+```bibtex
+@article{Maffioli2019,
+  author  = {Maffioli, Luca and Clisby, Nathan and Frascoli, Federico and Todd, B. D.},
+  title   = {Computation of the equilibrium three-particle entropy for dense atomic fluids by molecular dynamics simulation},
+  journal = {The Journal of Chemical Physics},
+  volume  = {151},
+  number  = {16},
+  pages   = {164102},
+  year    = {2019},
+  doi     = {10.1063/1.5124715}
+}
+```
+
 This program is an equilibrium molecular dynamics (MD) simulation of a three-dimensional
 fluid. It samples the **two-particle (g2)** and **three-particle (g3) distribution
 functions** of the fluid.
